@@ -114,7 +114,8 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![IMG_20250922_124043](https://github.com/user-attachments/assets/2cad6275-987c-453a-b592-d2fc22e21a43)
+
 
 ---
 
@@ -165,12 +166,14 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![IMG_20250922_130041](https://github.com/user-attachments/assets/87a1e4ae-2c6b-41de-9ee4-acf77cada314)
+
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-![mul mpmc](https://github.com/user-attachments/assets/d5dcaaa2-4151-49ef-8eb3-4c24ae10c08a)
+![mul ](https://github.com/user-attachments/assets/76ce5e75-4040-40f0-8050-34c0157a9f85)
+
 
 ## 4. DIVISION
 
