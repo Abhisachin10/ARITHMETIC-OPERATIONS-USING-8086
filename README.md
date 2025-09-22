@@ -119,6 +119,8 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="637" height="283" alt="Screenshot 2025-09-22 092332" src="https://github.com/user-attachments/assets/68604241-768c-416f-8c11-786b65ef88b8" />
+
 
 ## 3. MULTIPLICATION
 
@@ -167,6 +169,7 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![WhatsApp Image 2025-09-22 at 10 04 10_8dd24385](https://github.com/user-attachments/assets/42aa2184-26b7-4e28-95c1-d9c7c90613ed)
 
 ## 4. DIVISION
 
