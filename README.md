@@ -61,7 +61,8 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![IMG_20250922_114941](https://github.com/user-attachments/assets/404b498c-b130-4589-a033-a7db2b81a3b4)
+
 
 ---
 
@@ -169,7 +170,7 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-![WhatsApp Image 2025-09-22 at 10 04 10_8dd24385](https://github.com/user-attachments/assets/42aa2184-26b7-4e28-95c1-d9c7c90613ed)
+![mul mpmc](https://github.com/user-attachments/assets/d5dcaaa2-4151-49ef-8eb3-4c24ae10c08a)
 
 ## 4. DIVISION
 
@@ -210,10 +211,12 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![IMG_20250922_121353](https://github.com/user-attachments/assets/bc9a9796-c9e3-471e-b80f-e4e054f581dc)
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+![div mpmc](https://github.com/user-attachments/assets/9d02f8ef-d7a7-4bef-b617-a70bc6812256)
+
 
 
 
